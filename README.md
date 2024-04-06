@@ -5,8 +5,9 @@ Utilized Angular for dynamic client-side on web app display unique portfolios pe
 iOS app: (Swift, SwiftUI, iOS, Angular, NodeJs, GCP, Typescript)
 https://www.youtube.com/watch?v=nxQ0EGEpKGM
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nxQ0EGEpKGM/0.jpg)]
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nxQ0EGEpKGM/1.jpg)](https://www.youtube.com/watch?v=nxQ0EGEpKGM)
 
 Web App: (Angular, NodeJS, javascript, express, typescript, GCP)
 https://www.youtube.com/watch?v=qsEnsgvmsQ8
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qsEnsgvmsQ8/0.jpg)]
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qsEnsgvmsQ8/1.jpg)](https://www.youtube.com/watch?v=qsEnsgvmsQ8)
+
